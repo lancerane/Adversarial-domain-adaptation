@@ -5,7 +5,7 @@ TF2 implementation of a domain adversarial neural network as described in https:
 
 CUDA dependencies:
 ```
-conda env -n tf2 pip tensorflow-gpu
+conda create -n tf2 pip tensorflow-gpu
 ```
 
 Then:
